@@ -10,7 +10,7 @@
 }
 /* background */
 :root {
-  --channeltextarea-background: var(--background-tertiary);
+  --channeltextarea-background: #ffffff;
   --radio-bar-accent-color: transparent;
   --deprecated-text-input-bg: var(--background-secondary);
   --deprecated-text-input-border-disabled: var(--background-secondary);
